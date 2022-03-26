@@ -4,6 +4,8 @@
     "johnsoncodehk.vscode-typescript-vue-plugin",
     "dbaeumer.vscode-eslint",
     "vscode-icons-team.vscode-icons",
-    "vivaxy.vscode-conventional-commits"
+    "vivaxy.vscode-conventional-commits",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense"
   ]
 }
